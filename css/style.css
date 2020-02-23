@@ -24,7 +24,7 @@ h1{
     width:75%;
 }
 .top-banner{
-    background-image:url("/images/top-banner.png");
+    background-image:url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -39,7 +39,7 @@ section{
     background-image: linear-gradient(130deg, orange,tomato);
 }
 .two-section{
-    background-image: url("/images/dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
     margin-top:20px;
@@ -70,7 +70,7 @@ section{
     padding-right: 40px;
 }
 .section-three{
-    background-image: url("/images/exp-bg.png");
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
